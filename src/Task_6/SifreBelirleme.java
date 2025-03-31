@@ -1,3 +1,5 @@
+package Task_6;
+
 import java.util.Scanner;
 
 public class SifreBelirleme {

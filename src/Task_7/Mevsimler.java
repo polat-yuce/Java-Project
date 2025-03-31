@@ -1,3 +1,5 @@
+package Task_7;
+
 import java.util.Scanner;
 
 public class Mevsimler {
