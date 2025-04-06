@@ -1,3 +1,5 @@
+package Task_12;
+
 import java.util.*;
 
 public class DiziBirlestirme {
